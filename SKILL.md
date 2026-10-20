@@ -1,6 +1,6 @@
 ---
 name: altercpa-hacks
-description: Complete guide to developing hacks (extensions) for the AlterCPA platform - Lite, Pro and Core. Use whenever writing, designing, reviewing or debugging AlterCPA hack code - the startup file and main class, the $core god-object, modules and libraries, language files, templates and styling, the Settings page, API applications, cron tasks, database schemas, advertising and delivery connectors, and the auto-update service. Also carries the mandatory AlterCPA code style. Triggers on any mention of an AlterCPA hack, the $core object, the hack/<name>/ layout, hack templates or forms, hack API endpoints, or a request to extend or customize AlterCPA.
+description: Complete guide to developing hacks (extensions) for the AlterCPA platform - Lite, Pro and Core. Use whenever writing, designing, reviewing or debugging AlterCPA hack code - the startup file and main class, the $core god-object, modules and libraries, language files, templates and styling, the Settings page, API applications, cron tasks, database schemas, advertising and delivery connectors, and the auto-update service. Also carries the mandatory AlterCPA code style. Triggers on any mention of an AlterCPA hack, the $core object, the per-hack folder layout, hack templates or forms, hack API endpoints, or a request to extend or customize AlterCPA.
 ---
 
 # AlterCPA — Hack Development
